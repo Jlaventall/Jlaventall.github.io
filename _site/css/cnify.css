@@ -311,3 +311,7 @@ img.transparent_0 {
 
 body {
   -webkit-tap-highlight-color: #222; }
+  
+div#digital-china{
+background-image: url("../img/DigitalChina_1.jpg");
+}
